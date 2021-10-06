@@ -10,3 +10,5 @@
 ![image](https://user-images.githubusercontent.com/9654663/123734019-237a9c80-d8cf-11eb-981f-0dd9adc65718.png)
 
 (3)Unzip the spring.zip
+
+(4)Importing projects into RM2PT
