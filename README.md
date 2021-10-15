@@ -1,4 +1,6 @@
 # RE2EIS
+com.rm2pt.generator.springboot.updatesite-1.0.0-SNAPSHOT  is the RM2EA tool
+ 
 
 (1)The first step is to download RM2PT tool at https://rm2pt.com/downloads/
 
