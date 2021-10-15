@@ -1,7 +1,7 @@
 ## RE2EA
-### com.rm2pt.generator.springboot.updatesite-1.0.0-SNAPSHOT  is the RM2EA tool installation package
+### - com.rm2pt.generator.springboot.updatesite-1.0.0-SNAPSHOT  is the RM2EA tool installation package
 
-### spring.zip is the project
+### - spring.zip is the project
 
 
 
