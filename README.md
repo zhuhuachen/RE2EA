@@ -1,7 +1,7 @@
 ## RE2EA
 ### - com.rm2pt.generator.springboot.updatesite-1.0.0-SNAPSHOT  is the installation package
 
-### - spring.zip is the project
+### - spring.zip is the demo project
 
 
 
@@ -19,4 +19,4 @@
 
 (3)Unzip the spring.zip
 
-(4)Importing project into RM2PT
+(4)Importing demo into RM2PT
